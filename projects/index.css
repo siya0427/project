@@ -1,0 +1,95 @@
+.container
+{
+    padding: 50px;
+    width: auto;
+    height: 50px;
+    background-color: greenyellow;
+    border-radius: 2opx;
+    -webkit-border-radius: 2opx;
+    -moz-border-radius: 2opx;
+    -ms-border-radius: 2opx;
+    -o-border-radius: 2opx;
+    font-style: italic;
+    text-shadow: 5px  2px grey;
+}
+.link{
+    display: flex;
+    justify-content: flex-start;
+    align-self: auto;
+    font-size: medium;
+    font-style: oblique;
+    gap: 10px;
+    color: bisque;
+    
+}
+.Boreal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid burlywood;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.img1{
+    
+    image-orientation: from-image;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding-right: 300px;
+    display: inline-flex;
+}
+.detail1{
+    width: 500px;
+    margin: 50px;
+    padding-right: 500px;
+}
+.detail2{
+    /* background-image: url(https://th.bing.com/th/id/OIP.0YiUHcBFGBNZJybpD1Z1HAHaEo?w=254&h=180&c=7&r=0&o=5&pid=1.7); */
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    color: beige;
+    
+   
+}
+.container2{
+    width: 100%;
+    height: 2000px;
+    background-image: url(https://th.bing.com/th/id/OIP.0YiUHcBFGBNZJybpD1Z1HAHaEo?w=254&h=180&c=7&r=0&o=5&pid=1.7);
+    background-repeat: no-repeat;
+    background-size:  1800px 1597px;
+    
+    
+     
+}
+.detail3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    width: 2000px;
+    height: 900px;
+    gap: 20px;
+
+}
+#img23{
+    height: 550px;
+    width: 440px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.detail4{
+    background-color: blueviolet;
+    height: 500px;
+    width: 100%;
+
+}
